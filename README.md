@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning full stack development<br>also trying to professional on ML
+I'm currently learning full stack development<br>also trying to be professional on ML
 
 
 ## 🌐 Socials:
