@@ -1,29 +1,179 @@
-<h1 align="center">Hi 👋, I'm Rafid</h1>
-<h3 align="center">Aspiring Cybersecurity Professional Interested in Ethical Hacking, Penetration Testing, and Defensive Security.</h3>
+# 👋 Hi, I'm Rafid
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=f-islamrafid&label=Profile%20views&color=0e75b6&style=flat" alt="f-islamrafid" /> </p>
+### Aspiring Cybersecurity Professional | Ethical Hacking | Defensive Security
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=f-islamrafid" alt="f-islamrafid" /></a> </p>
-
-- 🌱 I’m currently learning **Learning cybersecurity and ethical hacking. Developing practical security projects using Python. Building foundations in Linux and computer networking. Documenting my cybersecurity learning journey.**
-
-- 📫 How to reach me **firafid@outlook.com**
-
-- ⚡ Fun fact **Peoples think I'm rude and serious just because my face looks.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fakhrul-islam-358941317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fakhrul-islam-358941317" height="30" width="40" /></a>
-<a href="https://fb.com/mono.rafu.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mono.rafu.0" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/fakhrul_rafid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fakhrul_rafid" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/4216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="4216" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Learning%20%26%20Building-0A192F?style=for-the-badge&logo=hackthebox&logoColor=00D9FF" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Python-Security%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Linux-Kali%20Linux-557C94?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/f-islamRafid">
+    <img src="https://img.shields.io/badge/GitHub-f--islamRafid-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/fakhrul-islam-358941317">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=f-islamrafid&show_icons=true&locale=en&layout=compact" alt="f-islamrafid" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f-islamrafid&show_icons=true&locale=en" alt="f-islamrafid" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f-islamrafid&" alt="f-islamrafid" /></p>
+I'm an aspiring cybersecurity professional interested in understanding how systems work, identifying security weaknesses, and learning how to protect digital environments.
+
+I believe in learning through practical projects, hands-on labs, and continuous improvement.
+
+- 🔐 Interested in Ethical Hacking, Penetration Testing, and Defensive Security.
+- 🐍 Building practical cybersecurity tools using Python.
+- 🐧 Learning Linux administration and working with Kali Linux.
+- 🌐 Developing my foundation in Computer Networking.
+- 🔍 Exploring security monitoring, log analysis, and file integrity.
+- 📚 Documenting my cybersecurity learning journey through projects.
+
+---
+
+## 🛠️ Technical Skills & Technologies
+
+| Category | Technologies / Areas |
+|---|---|
+| Programming | Python |
+| Operating Systems | Linux, Kali Linux, Windows |
+| Version Control | Git, GitHub |
+| Cybersecurity | Security Fundamentals, Log Analysis, File Integrity Monitoring |
+| Networking | Networking Fundamentals |
+| Cryptography | SHA-256 Hashing |
+| Data Handling | JSON, Python File Handling |
+
+### Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github&theme=dark" alt="Python, Linux, Bash, Git, GitHub"/>
+</p>
+
+---
+
+## 🚩 Featured Cybersecurity Projects
+
+### 01. Python Log Analyzer
+
+**Category:** Defensive Security | Python | Log Analysis
+
+A Python-based cybersecurity tool that analyzes authentication logs, counts successful and failed login attempts, identifies repeated failed login activity by IP address, and generates security reports.
+
+**Key Features**
+- Authentication log analysis
+- Failed login tracking by IP address
+- Repeated failure detection
+- Malformed record detection
+- Automated security report generation
+
+<p>
+  <a href="https://github.com/f-islamRafid/Cybersecurity-Learning-Journey/tree/main/Personal-Projects/Python-Log-Analyzer">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Python Log Analyzer"/>
+  </a>
+</p>
+
+### 02. File Integrity Monitor
+
+**Category:** Defensive Security | Python | Cryptographic Hashing
+
+A Python-based security tool that uses SHA-256 cryptographic hashing to monitor files and detect unexpected changes by comparing current file hashes against a stored baseline.
+
+**Key Features**
+- SHA-256 file hashing
+- Baseline creation and storage
+- Modified file detection
+- New file detection
+- Deleted file detection
+- Automated integrity reports
+
+<p>
+  <a href="https://github.com/f-islamRafid/Cybersecurity-Learning-Journey/tree/main/Personal-Projects/File-Integrity-Monitor">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View File Integrity Monitor"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/f-islamRafid/Cybersecurity-Learning-Journey">
+    <img src="https://img.shields.io/badge/Explore%20All%20Projects-0A192F?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ff-islamRafid&query=%24.public_repos&label=Public%20Repositories&logo=github&style=for-the-badge" alt="Public repositories"/>
+  <img src="https://img.shields.io/github/stars/f-islamRafid?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars%20Earned" alt="Stars earned"/>
+  <img src="https://komarev.com/ghpvc/?username=f-islamRafid&color=0e75b6&style=for-the-badge&label=Profile%20Views" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=f-islamRafid&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rafid's GitHub statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-islamRafid&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=f-islamRafid&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+### 📈 Contribution Activity & Commit Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=f-islamRafid&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+</p>
+
+---
+
+## 🎓 Currently Learning
+
+I'm continuously developing my cybersecurity knowledge through structured learning and practical exercises.
+
+- **Google Cybersecurity Professional Certificate**
+- **IBM Ethical Hacking with Open Source Tools**
+- Linux Administration
+- Computer Networking
+- Python for Cybersecurity
+- Ethical Hacking Fundamentals
+
+---
+
+## 🎯 Career Objective
+
+My long-term goal is to become a skilled Penetration Tester and Ethical Hacker.
+
+I'm focused on strengthening my technical foundations, developing practical security tools, understanding system vulnerabilities, and learning how to improve digital security through ethical and authorized testing.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/f-islamRafid">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/fakhrul-islam-358941317">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://codeforces.com/profile/fakhrul_rafid">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://www.topcoder.com/members/4216">
+    <img src="https://img.shields.io/badge/Topcoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white" alt="Topcoder"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Learn Continuously. Practice Ethically. Build Securely.</b>
+</p>
+
+<p align="center">
+  <i>Building my cybersecurity journey, one project at a time. 🔐</i>
+</p>
