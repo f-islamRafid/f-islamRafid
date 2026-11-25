@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rafid
+# Heyy, I'm Rafid
 
 ### Aspiring Cybersecurity Professional | Ethical Hacking | Defensive Security
 
