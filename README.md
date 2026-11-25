@@ -3,9 +3,10 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="assets/soc-banner.gif" width="100%" alt="Rafid - Cybersecurity Operations and Security Monitoring"/>
+  <img src="assets/soc-banner.gif"
+       width="100%"
+       alt="Rafid Cybersecurity SOC Banner"/>
 </p>
-
 <h1 align="center">Hi, I'm Rafid 👋</h1>
 
 <h3 align="center">
