@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="assets/soc-banner.gif"
+  <img src="assets/SOC%20Banner.jpg"
        width="100%"
        alt="Rafid Cybersecurity SOC Banner"/>
 </p>
