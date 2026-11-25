@@ -44,28 +44,13 @@ My approach is simple: learn the fundamentals, practice in authorized environmen
 
 ## `02` // TERMINAL
 
-```bash
-┌──(rafid㉿cyberlab)-[~]
-└─$ whoami
+<p align="center">
+  <img src="assets/terminal.svg"
+       width="100%"
+       alt="Rafid's animated cybersecurity terminal"/>
+</p>
 
-Rafid — Aspiring Cybersecurity Professional
 
-┌──(rafid㉿cyberlab)-[~]
-└─$ current_focus
-
-Python | Linux | Networking | Defensive Security
-
-┌──(rafid㉿cyberlab)-[~]
-└─$ current_objective
-
-Build practical cybersecurity skills through
-projects, research, and authorized labs.
-
-┌──(rafid㉿cyberlab)-[~]
-└─$ echo $MOTTO
-
-Learn. Practice. Analyze. Secure.
-```
 
 ---
 
