@@ -2,7 +2,7 @@
 <!-- RAFID | CYBERSECURITY PROFILE README                  -->
 <!-- ===================================================== -->
 
-<h1 align="center">Curious. Hands-on. Always debugging. I'm Rafid👋</h1>
+<h1 align="center">Curious. Hands-on. Always debugging. I'm ̿̿ʳ̿̿ᵃ̿̿ᶠ̿̿ᶤ̿̿ᵈ</h1>
 
 <p align="center">
   <img src="assets/soc-banner.gif"
