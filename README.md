@@ -2,12 +2,14 @@
 <!-- RAFID | CYBERSECURITY PROFILE README                  -->
 <!-- ===================================================== -->
 
+<h1 align="center">Curious. Hands-on. Always debugging. I'm Rafid👋</h1>
+
 <p align="center">
-  <img src="assets/SOC%20Banner.jpg"
+  <img src="assets/soc-banner.gif"
        width="100%"
-       alt="Rafid Cybersecurity SOC Banner"/>
+       alt="Rafid's Animated SOC Banner"/>
 </p>
-<h1 align="center">Hi, I'm Rafid 👋</h1>
+
 
 <h3 align="center">
   Aspiring Cybersecurity Professional
